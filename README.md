@@ -1,10 +1,10 @@
 # Final_Project_MachineLearning
-### Bài 1 (3 điểm): làm riêng từng người
+### Bài 1:
 Trình bày một bài nghiên cứu, đánh giá của em về các vấn đề sau:
 1)	 Tìm hiểu, so sánh các phương pháp Optimizer trong huấn luyện mô hình học máy;
 2)	Tìm hiểu về Continual Learning và Test Production khi xây dựng một giải pháp học máy để giải quyết một bài toán nào đó.
 
-### Bài 2: (7 điểm): làm chung trong nhóm
+### Bài 2:
 Đưa ra một bài toán dự đoán có thể giải quyết bằng học máy (machine leanring) với các yêu cầu sau:
 -	Số Feature/Attribute gồm nhiều kiểu: categorial và numerical;
 -	Dữ liệu phải chưa được học, thực tập trên lớp và trong bài tập về nhà;
