@@ -1,4 +1,9 @@
 # Final_Project_MachineLearning
+### Thành viên:
+1. Bùi Thị Loan Anh - 52000736
+2. Võ Thị Quế Chi - 52000741
+3. Vinh Linh - 52000910
+   
 ### Bài 1:
 Trình bày một bài nghiên cứu, đánh giá của em về các vấn đề sau:
 1)	 Tìm hiểu, so sánh các phương pháp Optimizer trong huấn luyện mô hình học máy;
