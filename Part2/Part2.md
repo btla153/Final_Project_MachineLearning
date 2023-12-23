@@ -10,5 +10,5 @@
 5)	Sau khi huấn luyện xong mô hình thì muốn cải thiện độ chính xác, ta sẽ làm gì để giải quyết nó? Phân tích các trường hợp sai, đề ra giải pháp và thực hiện nó, sau đó đánh giá xem có cải tiến so với trước không.
 
 Chúng em thực hiện Bài 2 trên colab.
-Link Colab: 
+# Link Colab: 
 https://colab.research.google.com/drive/1R9voCxoLUW0EXQ7l_8EF3SpYrHxEjWeG#scrollTo=3qA0xg-Ln5uV
